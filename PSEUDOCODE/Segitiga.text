@@ -1,0 +1,18 @@
+*** Segitiga ***
+
+Algoritma : hitung_luas_keliling_segitiga
+
+Deklarasi : 
+Alas, Tinggi, luas, sisi b, Keliling:double
+
+Import Scanner
+
+Deskripsi : 
+
+a = input Alas
+b = input sisi b
+c = input tinggi
+
+print luas = a * c /2
+print keliling = a+b+c
+

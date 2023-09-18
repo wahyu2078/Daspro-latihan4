@@ -1,0 +1,16 @@
+*** Persegi ***
+
+Algoritma : hitung_luas_keliling_persegi
+
+Deklarasi : 
+Sisi, Luas, Keliling:int
+
+Import Scanner
+
+Deskripsi : 
+
+sisi = input sisi
+
+print luas
+print keliling
+

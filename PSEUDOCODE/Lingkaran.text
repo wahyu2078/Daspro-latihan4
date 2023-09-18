@@ -1,0 +1,15 @@
+*** Lingkaran ***
+
+Algoritma : hitung_luas_keliling_lingkaran
+
+Deklarasi : 
+jari, Luas, Keliling, phi = 3.14:double
+
+Import Scanner
+
+Deskripsi : 
+
+jari = input jari
+
+print luas = phi * jari * jari
+print keliling = a+b+c

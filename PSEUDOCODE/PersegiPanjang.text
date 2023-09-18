@@ -1,0 +1,17 @@
+*** Persegi Panjang ***
+
+Algoritma : hitung_luas_keliling_persegi_panjang
+
+Deklarasi : 
+Panjang, Lebar, Luas, Keliling:int
+
+Import Scanner
+
+Deskripsi : 
+
+panjang = input panjang
+lebar = input lebar
+
+print luas
+print keliling
+
